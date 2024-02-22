@@ -36,3 +36,17 @@ I tried to describe how NIFI working and my understand about this open-source ET
 
 
 ### Что происзодит а каждом этапе выполнения потока?
+
+В комментариях описала процесс
+
+![Снимок экрана (41)](https://github.com/arlinrus/RA/assets/111064731/35c4e843-080f-4113-9696-9618b76b8cfc)
+
+
+
+
+
+
+
+
+
+
