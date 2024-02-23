@@ -1,3 +1,6 @@
+ССЫЛКА НА ТЕЛЕГРАММ БОТА : @csv_json_bot
+К сожалению, не успела его захостить, поэтому надо будет вручную вставлять код в IDE
+
 from aiogram.types import ReplyKeyboardMarkup,InlineKeyboardMarkup,InlineKeyboardButton,ReplyKeyboardRemove,KeyboardButton
 from aiogram import Bot, Dispatcher, types, executor
 import logging
